@@ -8,3 +8,4 @@ pandas
 ipywidgets
 bqplot
 nbinteract
+scipy
