@@ -1,9 +1,10 @@
+folium==0.1.5
 datascience
 ipython
 jupyter
-matplotlib
+matplotlib==2.0.2
 notebook
-numpy
+numpy==1.13.1
 pandas
 ipywidgets
 bqplot
