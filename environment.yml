@@ -1,0 +1,15 @@
+name: jsm2018
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip:
+    - bs4
+    - tqdm
+    - numpy
+    - datascience
+    - pyyaml
+    - nbformat
+    - nbclean
+    - -r ../binder/requirements.txt
